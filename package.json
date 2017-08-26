@@ -1,0 +1,24 @@
+{
+  "name": "snake_game",
+  "version": "0.0.5",
+  "description": "My Snake Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushShaw/Snake_game.git"
+  },
+  "keywords": [
+    "\"p5.js\"",
+    "\"Snake\"",
+    "\"Game\""
+  ],
+  "author": "Ayush Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushShaw/Snake_game/issues"
+  },
+  "homepage": "https://github.com/AyushShaw/Snake_game#readme"
+}
